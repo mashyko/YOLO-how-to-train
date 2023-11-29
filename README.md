@@ -7,6 +7,6 @@ Scaled-YOLOv4-pytorch
 
 YOLOv4-darknet
 
-YOLOV7_pytorch.ipynb
+YOLOv7_pytorch.ipynb
 
 Yolo8.ipynb
