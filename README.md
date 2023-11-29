@@ -9,4 +9,4 @@ YOLOv4-darknet
 
 YOLOV7_pytorch.ipynb
 
-yolov8.ipynb
+Yolo8.ipynb
